@@ -10,17 +10,17 @@
  - Estudiante de tecnologías FrontEnd.
  - Apasionado por las distribuciones de Linux.
  
- 		``` javascript
+ 		``` java
 		
-		//bloque codigo
-    class danielCastillo {
-    names: Daniel Matthes,
-    lastnames: Castillo Achury,
-    years: 20 
-    student:true
-    brave:true
-    learning:true
-    }
+	
+   // class danielCastillo {
+   // names: Daniel Matthes,
+   // lastnames: Castillo Achury,
+   // years: 20 
+   // student:true
+   // brave:true
+   // learning:true
+   // }
 		
 		```
 
