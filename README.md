@@ -11,7 +11,12 @@
  - Apasionado por las distribuciones de Linux.
  
  		~~~
-		 class danielCastillo {
+		 
+
+		~~~
+		
+```javascript
+class danielCastillo {
     			names: Daniel Matthes,
     			lastnames: Castillo Achury,
     			years: 20 
@@ -19,13 +24,6 @@
     			brave:true
     			learning:true
     			}
-
-		~~~
-		
-```javascript
-function test() {
-  console.log("notice the blank line before this function?");
-}
 ```
 
 **Daniel-Cas/Daniel-Cas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
