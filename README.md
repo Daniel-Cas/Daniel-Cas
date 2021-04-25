@@ -10,7 +10,9 @@
  -Estudiante de tecnologías FrontEnd.
  -Apasionado por las distribuciones de Linux.
  
- 		```JavaScript
+ 		```javascript
+		
+		//bloque codigo
     class danielCastillo {
     names: Daniel Matthes,
     lastnames: Castillo Achury,
