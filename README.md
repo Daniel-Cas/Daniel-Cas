@@ -1,11 +1,16 @@
 ### Hola👋
-#Mi nombre es Daniel Castillo.
+
+#Mi nombre es Daniel Castillo
+
+
+
+
 -Soy estudiante de Ingenieria de Sistemas, en la Universidad de Cundinamarca de Colombia.
  -Estudiante de tecnologías BackEnd.
  -Estudiante de tecnologías FrontEnd.
  -Apasionado por las distribuciones de Linux.
  
- 		```
+ 		```JavaScript
     class danielCastillo {
     names: Daniel Matthes,
     lastnames: Castillo Achury,
