@@ -11,7 +11,7 @@
  - Apasionado por las distribuciones de Linux.
   			
 ```typescript
-class danielCastillo {
+class developer{
     names: 'Daniel Matthes',
     lastnames: 'Castillo Achury',
     years: 20 
