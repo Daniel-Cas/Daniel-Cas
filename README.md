@@ -12,8 +12,8 @@
   			
 ```typescript
 class danielCastillo {
-    names: Daniel Matthes,
-    lastnames: Castillo Achury,
+    names: 'Daniel Matthes',
+    lastnames: 'Castillo Achury',
     years: 20 
     student:true
     brave:true
