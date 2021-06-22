@@ -5,7 +5,7 @@
 
 ```typescript
 class  Daniel{
-    names        : 'Daniel Matthes',
+    names        : 'Daniel Matthew',
     lastnames    : 'Castillo Achury',
     years        : 20,
     student      : true,
