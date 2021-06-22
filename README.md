@@ -55,7 +55,7 @@ class  Daniel{
 <h2> Estadisticas de GitHub </h2>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Cas&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Daniel-Cas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&locale=es)
 
 
 </center>
@@ -64,15 +64,17 @@ class  Daniel{
 <h2 align="center"> Lenguajes más usados </h2>
 
 <center>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cas&show_icons=true&theme=radical"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&locale=es"> 
 </center>
 
 
 #
 <p align="center"> 
-    Visitor count <br>
+    Contador de Visitas <br>
     <img src="https://profile-counter.glitch.me/Daniel-Cas/count.svg" /> 
 </p>
+
+
 
 
 
