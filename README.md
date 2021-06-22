@@ -51,12 +51,21 @@ class  Daniel{
  - Apasionado por las distribuciones de Linux.
   			
 
+<center>
+<h2> Estadisticas de GitHub </h2>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Cas&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</center>
+<br>
+
+<h2 align="center"> Lenguajes más usados </h2>
+
+<center>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cas&show_icons=true&theme=radical"> 
+</center>
 
 
 #
