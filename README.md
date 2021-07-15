@@ -74,7 +74,8 @@ class  Daniel{
 - <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
 - <img src="http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white">
-- <img align="right" src="http://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring+boot&logoColor=white">
+<img  src="http://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring+boot&logoColor=white">
+<img align="right" src="http://img.shields.io/badge/-Spring_Framework_5-6DB33F?style=flat&logo=spring&logoColor=white">
 
 
   			
