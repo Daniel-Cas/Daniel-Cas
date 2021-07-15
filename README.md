@@ -7,7 +7,7 @@
 <br>
 <br>
 <br>
-<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="rigth" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 
 ```typescript
