@@ -74,13 +74,20 @@ class  Daniel{
 - <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
 - <img src="http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white">
-<img  src="http://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring+boot&logoColor=white">
-<img align="right" src="http://img.shields.io/badge/-Spring_Framework_5-6DB33F?style=flat&logo=spring&logoColor=white">
+- <img  src="http://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring+boot&logoColor=white">
+- <img  src="http://img.shields.io/badge/-Spring_Framework_5-6DB33F?style=flat&logo=spring&logoColor=white">
 
 
   			
 
 ## Lenguajes
+
+- <img  src="http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
+- <img  src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+- <img  src="http://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&logoColor=white">
+- <img  src="http://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+
+
 
 
 
