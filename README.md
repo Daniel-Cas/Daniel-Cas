@@ -1,6 +1,13 @@
 ### Hola👋    Hi 👋   안녕하세요👋  Salut 👋  Ciao 👋   Salve👋  Привет👋   Olá👋
 
 <br>
+<br>
+<br>
+<h2 align="center"> Mi nombre es <strong>Daniel Castillo</strong> 🏰</h2>
+<br>
+<br>
+<br>
+<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 
 ```typescript
@@ -31,18 +38,10 @@ class  Daniel{
 
 <br>
 <br>
-<br>
 
 
-<h2 align="center"> Mi nombre es <strong>Daniel Castillo</strong> 🏰</h2>
 
 
-<br>
-<br>
-<br>
-
-
-#
 
 
  - Soy estudiante de Ingenieria de Sistemas, en la Universidad de Cundinamarca de Colombia.
@@ -51,23 +50,24 @@ class  Daniel{
  - Apasionado por las distribuciones de Linux.
   			
 
-<center>
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Daniel-Cas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&locale=es)
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Daniel-Cas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&locale=es">
+</p>
 
 
-</center>
 <br>
 
 
-<center>
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&locale=es"> 
-</center>
+</p>
 
 
-#
+
 <p align="center"> 
     Contador de Visitas <br>
     <img src="https://profile-counter.glitch.me/Daniel-Cas/count.svg" /> 
