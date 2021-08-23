@@ -119,10 +119,6 @@ class  Daniel{
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&locale=es"> 
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel-Cas)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
 
 <p align="center"> 
     Contador de Visitas <br>
