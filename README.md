@@ -60,41 +60,41 @@ class  Daniel{
 
 ## Herramientas y Preferencias.
 
-- <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-- <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-- <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-- <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-- <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-- <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-- <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-- <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-- <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-- <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+ <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+ <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+ <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+ <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+ <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+ <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
+ <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+ <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+ <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+ <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
-- <img src="http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white">
-- <img  src="http://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring+boot&logoColor=white">
-- <img  src="http://img.shields.io/badge/-Spring_Framework_5-6DB33F?style=flat&logo=spring&logoColor=white">
+ <img src="http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white">
+ <img  src="http://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring+boot&logoColor=white">
+ <img  src="http://img.shields.io/badge/-Spring_Framework_5-6DB33F?style=flat&logo=spring&logoColor=white">
 
 
   			
 
 ## Lenguajes
 
-- <img  src="http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
-- <img  src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-- <img  src="http://img.shields.io/badge/-C++-00599C?style=flat&logo=cpp&logoColor=white">
-- <img  src="http://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-- <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+ <img  src="http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
+ <img  src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+ <img  src="http://img.shields.io/badge/-C++-00599C?style=flat&logo=cpp&logoColor=white">
+ <img  src="http://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+ <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 
 
 ## Sistemas Operativos 
-- <img  src="http://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white">
-- <img  src="http://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white">
-- <img  src="http://img.shields.io/badge/-Linux_Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white">
-- <img  src="http://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
-- <img  src="http://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white">
-- <img  src="http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white">
+ <img  src="http://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white">
+ <img  src="http://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white">
+ <img  src="http://img.shields.io/badge/-Linux_Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white">
+ <img  src="http://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+ <img  src="http://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white">
+ <img  src="http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white">
 
 
 
