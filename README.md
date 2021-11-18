@@ -13,10 +13,6 @@
 <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 </p>
 
-<p align="center">
-
-<img align="center" style="width: 300px; height: 500px;" src="https://api.daily.dev/devcards/6c7f5142b4f44457929e08f812449b73.png?r=7ps"/>
-</p>
 
 
 ```typescript
@@ -126,6 +122,10 @@ class  Daniel{
 </p>
 
 
+<p align="center">
+
+<img align="center" style="width: 300px; height: 500px;" src="https://api.daily.dev/devcards/6c7f5142b4f44457929e08f812449b73.png?r=7ps"/>
+</p>
 <p align="center"> 
     Contador de Visitas <br>
     <img src="https://profile-counter.glitch.me/Daniel-Cas/count.svg" /> 
