@@ -15,7 +15,7 @@
 
 <p align="center">
 
-<img align="center" src="https://api.daily.dev/devcards/6c7f5142b4f44457929e08f812449b73.png?r=7ps"/>
+<img align="center" style="width: 500px; height: 300px;" src="https://api.daily.dev/devcards/6c7f5142b4f44457929e08f812449b73.png?r=7ps"/>
 </p>
 
 
