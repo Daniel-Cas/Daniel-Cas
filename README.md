@@ -124,7 +124,7 @@ class  Daniel{
 
 <p align="center">
 
-<img align="center" style="width: 100%; height: 100%;" src="https://api.daily.dev/devcards/6c7f5142b4f44457929e08f812449b73.png?r=7ps"/>
+<img align="center" style="width: 30%; height: 30%;" src="https://api.daily.dev/devcards/6c7f5142b4f44457929e08f812449b73.png?r=7ps"/>
 </p>
 <p align="center"> 
     Contador de Visitas <br>
