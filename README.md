@@ -3,7 +3,7 @@
 <br>
 <br>
 <br>
-<h2 align="center"> My name is <strong>Daniel Castillo</strong> 🏰 but if you want can you call me Matt</h2>
+<h2 align="center"> My name is <strong>Daniel Castillo</strong> 🏰 but if you want you can call me Matt</h2>
 <br>
 <br>
 <br>
